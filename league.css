@@ -2,14 +2,11 @@
 body{
    margin-left: 75px; 
    animation: 3s linear infinite;
-
 }
 .container{
     height: 700px;
     width: 325px;
-    background-color: #F9F9F9;
-   
-    
+    background-color: #F9F9F9;   
 }
 
 input[type=text]{
@@ -40,7 +37,6 @@ input[type=password]{
     margin-left: 25px;
     margin-top: 8px;
  }
-
  .titulo{
      position: absolute;
      height: 30px;
@@ -54,7 +50,6 @@ input[type=password]{
     color: #A8A8A8;
     font-family: sans-serif;
     font-weight: bolder;
-    
  }
  .button{
     width: 14px;
@@ -109,14 +104,11 @@ margin-top: 10px;
 @media only screen and (max-width: 600px) {
    body{
       margin-left: 10px; 
-      
-   
    }
    .container{
        height: 550px;
        width: 300px;
-       background-color: #F9F9F9;
-        
+       background-color: #F9F9F9;  
    }
    input[type=text]{
       margin-left: 25px;
@@ -177,8 +169,7 @@ font-weight: 600;
 input[type=placeholder]{
   color: #A8A8A8;
   font-family: sans-serif;
-  font-weight: bolder;
-  
+  font-weight: bolder; 
 }
 .button{
   width: 14px;
