@@ -3,4 +3,4 @@
 Como técnica, adotei o css padrão, sem usar flexbox para a centralização e organização dos containeres.
 </p>
 [Imgur](https://i.imgur.com/HWFDr8w.png)
-<small>todos os direitos reservados a riot games</small>
+
